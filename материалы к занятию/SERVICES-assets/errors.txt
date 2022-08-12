@@ -1,0 +1,2 @@
+[2019-09-08 02:28:52] layer "+38 (048) 754-23-56": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-09-08 02:28:52] layer "© Все права защищены LAB Consulting lab-consult.com": Unsupported extension: com
